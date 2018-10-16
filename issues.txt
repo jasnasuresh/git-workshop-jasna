@@ -4,3 +4,7 @@ issues.txt
 jasgops.txt
 minions.txt
 new.txt
+
+
+Added a few lines to the file.
+Modified.
